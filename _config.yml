@@ -23,7 +23,7 @@ repository               : "cheuserloy/cheuserloy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ch.png"
   name             : "Christoph Heuser-Loy"
   pronouns         : # example: "she/her"  
   bio              : "Physiology & Engineering of Therapeutic T cells"
