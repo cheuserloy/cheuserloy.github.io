@@ -1,5 +1,5 @@
 # The Immunoengineering Lab website
-This website is based on the [accadaemicpages](https://academicpages.github.io/), project, if you want to build something similar see the nice guide they provide.
+This website is based on the [academicpages](https://academicpages.github.io/), project, if you want to build something similar see the nice guide they provide.
 
 ---
 <div align="center">
