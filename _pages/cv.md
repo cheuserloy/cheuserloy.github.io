@@ -10,55 +10,69 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+-----
+* Ph.D in **Molecular Biomedicine**, University of Bonn, 2020
+* Diploma in **Molecular Biomedicine**, University of Bonn, 2011
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+-----
+* since 06/2025: **Junior Research Group Leader**\
+  University Hospital Bonn, Germany\
+  Internal Medicine III – Hematology/Oncology
+  * T cell Physiology and Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* since 02/2021: **Senior Scientist**\
+  Leibniz Institute for Immunotherapy, Regensburg, Germany\
+  Division for Functional Immune Cell Modulation (Prof. Luca Gattinoni)
+  * Team Lead *Basic Discovery Program*
+  * Coordination of experimental work & cytometry studies
+  * Enhancing T cell fitness by genetic and metabolic interventions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2020 - 02/2021: **Scientist**\
+  University Hospital Bonn, Germany\
+  Institute for Experimental Immunology and Molecular Medicine (Prof. Christian Kurts)
+  * Characterization of genetically engineered mouse models
+
+* 02/2018 - 12/2019: **Scientist**\
+  Technical University Munich\
+  Institute for Virology | Center for Translational Cancer Research
+  * Project coordination
+  * Study of human tissue-resident T cells
+ 
+* 10/2011 - 12/2017: **PhD student**\
+  University Hospital Bonn, Germany\
+  Institute for Experimental Immunology and Molecular Medicine (Prof. Christian Kurts)
+  * Improving tumor vaccination by Treg modulation
+  * Designing *in vivo* models for NKT cell depletion
+ 
+* 06/2011 - 08/2017: **Visiting scientist**\
+  Johns Hopkins University, Baltimore, US\
+  Department of Pathology (Profs. Jon Schneck & Matthias Oelke)
+
+* 01/2010 - 03/2010: **Intern**\
+  Oslo University Hospital, Norway\
+  Department of Anatomy, Institute of Basic Medical Sciences
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+-----
+* Physiological T cell differentiation
+* Engineering T cells for adoptive therapies
+* High-dimensional, multi-omic cytometry
+* *In vivo* experimentation
   
 Teaching
-======
+-----
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Scientific merits
+-----
+### ongoing
+* **Deputy Scientific Manager**: [T-FITNESS project](https://t-fitness-horizon.eu/), European Innovation Council
+* **Co-supervisor/Mentor**: 1 BSc, 4 MSc, 3 MD, 5 PhD students, 2 postdocs, 2 technicians
+* **Reviewer**
+### previous
+* **Mentor**: KeCK program for equal opportunities and career planning, TU Munich
+* **PhD Fellowship**: German National Academic Foundation
+* **BONFOR grant**: intramural funding, University Hospital Bonn
