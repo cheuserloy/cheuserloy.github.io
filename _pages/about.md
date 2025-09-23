@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+The Immunoengineering at the University Hospital Bonn Medical Clinic III is launching and expected to become fully operational in the first half of 2026.\
+For more information, check out the website or get in touch!
