@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include toc %}
 
 Education
 -----
@@ -18,7 +19,7 @@ Work experience
 -----
 * since 06/2025: **Junior Research Group Leader**\
   University Hospital Bonn, Germany\
-  Internal Medicine III – Hematology/Oncology
+  [Internal Medicine III – Hematology/Oncology](https://www.ukbonn.de/haematologie-und-onkologie/)
   * T cell Physiology and Engineering
 
 * since 02/2021: **Senior Scientist**\
@@ -59,12 +60,14 @@ Skills
 * T cell engineering for adoptive cell therapies
 * High-dimensional, multi-omic cytometry
 * *In vivo* experimentation
-  
+
+<!--
 Teaching
 -----
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Scientific merits
 -----
