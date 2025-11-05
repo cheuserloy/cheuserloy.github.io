@@ -1,7 +1,7 @@
 ---
-title: 'Hints to smooth your adventure in biomedical research'
-date: 2025-11-05
-permalink: /posts/2025/11/Learnings/
+title: 'Hints to smooth your adventures in biomedical research'
+date: 2025-11-04
+permalink: /posts/2025/11/learnings/
 tags:
   - advice
 ---
