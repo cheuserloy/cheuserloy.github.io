@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-{% include toc %}
+{% include base_path %}\
 
 University education
 -----
@@ -58,9 +57,9 @@ Scientific merits
 -----
 ### ongoing
 * **Deputy Scientific Manager**: European Innovation Council project [*T-FITNESS*](https://t-fitness-horizon.eu/)
-* **Reviewer**: Cancer Communications, Frontiers in Immunology, Stem Cell Research & Therapy, Frontiers in Medicine, Kidney Dialysis Transplantation
+* **Reviewer**: Cancer Communications; Frontiers in Immunology; Cancer Immunology, Immunotherapy; Stem Cell Research & Therapy; Frontiers in Medicine; Molecular and Cellular Biochemistry; Scientific Reports; Kidney Dialysis Transplantation
 
 ### previous
 * **Mentor**: KeCK program for equal opportunities and career planning, TU Munich
-* **PhD Fellowship**: German National Academic Foundation
+* **PhD Fellowship**: [German National Academic Foundation](https://www.studienstiftung.de/)
 * **BONFOR grant**: intramural funding, University Hospital Bonn
