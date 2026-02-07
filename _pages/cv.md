@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}\
+{% include base_path %}
 
 University education
 -----
-* Ph.D in **Molecular Biomedicine**, University of Bonn, 2020
-* Diploma in **Molecular Biomedicine**, University of Bonn, 2011
+* 2020: PhD, **Molecular Biomedicine**, University of Bonn
+* 2011: Diploma, **Molecular Biomedicine**, University of Bonn
 
 Scientific career
 -----
@@ -29,10 +29,10 @@ Scientific career
   [Institute for Experimental Immunology and Molecular Medicine](https://www.immei.de/) (Prof. Christian Kurts)
 
 * 02/2018 - 12/2019: **Scientist**\
-  Technical University Munich\
+  Technical University Munich, Germany\
   [Institute for Virology](https://www.pm.mh.tum.de/en/virologie/home/) | [Center for Translational Cancer Research](https://www.translatum.tum.de/en/translatum/home/)
 
-* 10/2011 - 12/2017: **PhD student**\
+* 10/2011 - 12/2017: **PhD Student**\
   University Hospital Bonn, Germany\
   [Institute for Experimental Immunology and Molecular Medicine](https://www.immei.de/) (Prof. Christian Kurts)
 
