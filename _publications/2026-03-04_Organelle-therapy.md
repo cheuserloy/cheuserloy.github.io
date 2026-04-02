@@ -2,9 +2,9 @@
 title: "Targeting organelle function in T cells for cancer immunotherapy"
 collection: publications
 category: reviews
-permalink: /publication/2025-10-09_Organelle-therapy
+permalink: /publication/2026-03-04_Organelle-therapy
 excerpt: ''
-date: 2025-10-09
+date: 2026-03-04
 paperurl: 'https://doi.org/10.1038/s41577-025-01223-9'
 citation: 'Baldwin JG, <b>Heuser-Loy C</b>, Gattinoni L. <b><i>Nat Rev Immunol.</i></b> Oct 9, 2025.'
 ---
