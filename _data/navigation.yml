@@ -13,6 +13,9 @@ main:
   
   - title: "Research"
     url: /research/
+
+  - title: "Team"
+    url: /team/
   
   - title: "Publications"
     url: /publications/
@@ -22,6 +25,3 @@ main:
 
   - title: "Resources"
     url: /resources/
-    
-  - title: "CV"
-    url: /cv/
