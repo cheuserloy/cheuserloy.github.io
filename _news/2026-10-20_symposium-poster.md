@@ -25,5 +25,5 @@ Under the title *"Wie macht man Immunzellen fit für den Kampf gegen Krebs?"*, t
   <a href="/files/lit-symposium-2026-poster.pdf" target="_blank">
     View or download the poster (PDF, German)
   </a><br>
-  <a href "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lit.eu/developing-new-ideas-in-a-think-tank-environment-international-lit-symposium-2026/&ved=2ahUKEwifrJz30fGXAxUw-QIHHU7DDeoQFnoECB0QAQ&usg=AOvVaw2AIDoqnloSyJIdmF3dpTxM" target="_blank">Press Release</a>
+  <a href="https://lit.eu/developing-new-ideas-in-a-think-tank-environment-international-lit-symposium-2026/" target="_blank">Press Release</a>
 </p>
