@@ -6,18 +6,25 @@ author_profile: false
 ---
  
 ## Christoph Heuser-Loy
-<div class="row align-items-start mb-5">
-  <div class="col-md-4 mb-3 mb-md-0">
-    <img src="/assets/images/chl.jpg"
-         alt="Christoph Heuser-Loy"
-         class="img-fluid rounded"
-         style="max-width: 320px;">
-  </div>
-<div class="col-md-8">
-I am fascinated by the immune system as a remarkably modular and dynamic network: immune cells sense their surroundings, communicate, and adapt their behavior as they move between tissues. My research investigates the molecular circuits that shape T cell identity and function, with a particular focus on the metabolic, transcriptional and epigenetic mechanisms governing exhaustion, stemness, and persistence. By combining mechanistic immunology with synthetic biology and cell engineering, I aim to understand and rewire these circuits to create T cell therapies that remain functional in challenging tumor environments. 
 
-[CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=WIN8Lj0AAAAJ) · [Email](mailto:chl@uni-bonn.de)
+<div class="profile-layout">
+
+  <div class="profile-layout__portrait">
+    <img src="/images/ch.png" alt="Christoph Heuser-Loy">
   </div>
+
+  <div class="profile-layout__text">
+    <p>
+      I am fascinated by the immune system as a remarkably modular and dynamic network: immune cells sense their surroundings, communicate, and adapt their behavior as they move between tissues. My research investigates the molecular circuits that shape T cell identity and function, with a particular focus on the metabolic, transcriptional and epigenetic mechanisms governing exhaustion, stemness, and persistence. By combining mechanistic immunology with synthetic biology and cell engineering, I aim to understand and rewire these circuits to create T cell therapies that remain functional in challenging tumor environments.
+    </p>
+
+    <p>
+      <a href="/cv/">CV</a> ·
+      <a href="https://scholar.google.com/citations?user=WIN8Lj0AAAAJ">Google Scholar</a> ·
+      <a href="mailto:chl@uni-bonn.de">Email</a>
+    </p>
+  </div>
+
 </div>
 <!--
 ---
