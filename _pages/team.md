@@ -2,7 +2,7 @@
 layout: single
 title: "Team"
 permalink: /team/
-author_profile: false
+author_profile: true
 ---
  
 ## Christoph Heuser-Loy
@@ -25,15 +25,28 @@ author_profile: false
   </div>
 
 </div>
+
 <!--
----
 
 ## Pratikkha Natua
 **MSc student** · Since 10/2026
 
-Pratikkha is studying Biomedical Sciences at Bonn-Rhein-Sieg University of Applied Sciences. With a particular interest in T cell therapies and mitochondrial biology, she is working on the optimization of our metabolic assays to establish a robust foundation for subsequent inhibitor screens.
+<div class="profile-layout">
 
-[Email](mailto:pnatua@uni-bonn.de)
+  <div class="profile-layout__portrait">
+    <img src="/images/pn.jpg" alt="Pratikkha Natua">
+  </div>
+
+  <div class="profile-layout__text">
+    <p>
+      Pratikkha is studying Biomedical Sciences at Bonn-Rhein-Sieg University of Applied Sciences. With a particular interest in T cell therapies and mitochondrial biology, she is working on the optimization of our metabolic assays to establish a robust foundation for subsequent inhibitor screens.
+    </p>
+    <p>
+      <a href="mailto:pnatua@uni-bonn.de">Email</a>
+    </p>
+  </div>
+
+</div>
 -->
 
 <!--
