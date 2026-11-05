@@ -2,6 +2,7 @@
 title: ' New review out in NRI: Targeting organelle function in T cells for cancer immunotherapy '
 date: 2025-10-09
 permalink: /news/2025/Organelle-therapy/
+excerpt: 'A comprehensive overview of T cell organelle biology in physiology and therapy, including methodological aspects'
 tags:
   - review
   - immunotherapy
