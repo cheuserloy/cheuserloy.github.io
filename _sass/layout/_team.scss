@@ -1,0 +1,32 @@
+/* Team page profile layout */
+
+.profile-layout {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 3rem;
+}
+
+.profile-layout__portrait img {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.profile-layout__text {
+  min-width: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .profile-layout {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .profile-layout__portrait img {
+    max-width: 200px;
+  }
+}
