@@ -17,7 +17,6 @@ author_profile: false
     <p>
       I am fascinated by the immune system as a remarkably modular and dynamic network: immune cells sense their surroundings, communicate, and adapt their behavior as they move between tissues. My research investigates the molecular circuits that shape T cell identity and function, with a particular focus on the metabolic, transcriptional and epigenetic mechanisms governing exhaustion, stemness, and persistence. By combining mechanistic immunology with synthetic biology and cell engineering, I aim to understand and rewire these circuits to create T cell therapies that remain functional in challenging tumor environments.
     </p>
-
     <p>
       <a href="/cv/">CV</a> ·
       <a href="https://scholar.google.com/citations?user=WIN8Lj0AAAAJ">Google Scholar</a> ·
