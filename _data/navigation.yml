@@ -11,6 +11,9 @@ main:
   - title: "News"
     url: /news/
   
+  - title: "Team"
+    url: /team/
+  
   - title: "Publications"
     url: /publications/
 
@@ -19,6 +22,3 @@ main:
 
   - title: "Resources"
     url: /resources/
-    
-  - title: "CV"
-    url: /cv/
