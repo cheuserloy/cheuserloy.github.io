@@ -1,7 +1,8 @@
 ---
-title: ' Sustainability by design '
+title: 'Sustainability by design'
 date: 2026-02-05
 permalink: /news/2026/LEAF-onboarding/
+excerpt: 'A note on the lab''s efforts to make everyday work more sustainable through resource-conscious practices and reduced waste.'
 tags:
   - LEAF program
   - sustainability
