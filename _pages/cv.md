@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Christoph Heuser-Loy"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -57,7 +57,7 @@ Scientific merits
 -----
 ### ongoing
 * **Deputy Scientific Manager**: European Innovation Council project [*T-FITNESS*](https://t-fitness-horizon.eu/)
-* **Reviewer**: Cancer Communications; Frontiers in Immunology; Cancer Immunology, Immunotherapy; Exp Hematol Oncol; Stem Cell Research & Therapy; Frontiers in Medicine; Adv Healthc Mater; Molecular and Cellular Biochemistry; Scientific Reports; Kidney Dialysis Transplantation
+* **Reviewer**: Molecular Cancer; Cancer Communications; Frontiers in Immunology; Cancer Immunology, Immunotherapy; Experimental Hematology & Oncology; Stem Cell Research & Therapy; Frontiers in Medicine; Advanced Healthcare Materials; Molecular and Cellular Biochemistry; Scientific Reports; Kidney Dialysis Transplantation
 
 ### previous
 * **Mentor**: KeCK program for equal opportunities and career planning, TU Munich
