@@ -26,7 +26,6 @@ author_profile: true
 
 </div>
 
-<!--
 
 ## Pratikkha Natua
 **MSc student** · Since 10/2026
@@ -34,12 +33,12 @@ author_profile: true
 <div class="profile-layout">
 
   <div class="profile-layout__portrait">
-    <img src="/images/pn.jpg" alt="Pratikkha Natua">
+    <img src="/images/PN.jpg" alt="Pratikkha Natua">
   </div>
 
   <div class="profile-layout__text">
     <p>
-      Pratikkha is studying Biomedical Sciences at Bonn-Rhein-Sieg University of Applied Sciences. With a particular interest in T cell therapies and mitochondrial biology, she is working on the optimization of our metabolic assays to establish a robust foundation for subsequent inhibitor screens.
+      Pratikkha is studying Biomedical Sciences at Bonn-Rhein-Sieg University of Applied Sciences. With a particular interest in T cell therapies and mitochondrial biology, she is working on optimizing of our metabolic assays to establish a solid foundation for subsequent inhibitor screens.
     </p>
     <p>
       <a href="mailto:pnatua@uni-bonn.de">Email</a>
@@ -47,7 +46,6 @@ author_profile: true
   </div>
 
 </div>
--->
 
 <!--
 # Alumni
